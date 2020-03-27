@@ -1,7 +1,7 @@
 <?php
 /*
 Discord App Nitro Generator !
-Coded By MatinME !!! 
+Coded By MatinME
 
 Telegram : @MatinME
 DiscordId : MatinME#9966
