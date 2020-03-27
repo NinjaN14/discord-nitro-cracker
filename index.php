@@ -8,7 +8,7 @@ DiscordId : MatinME#9966
 Github : https://github.com/matin-me
 */
 #-------------------------------------------------------------------------------
-$countyouwant = "5"; //Number To Try / Teedade Talash Ha !
+$countyouwant = "5"; //Number To Try Crack
 #-------------------------------------------------------------------------------
 function objectToArrays( $object ){ if( !is_object( $object ) && !is_array( $object )){
     return $object;
