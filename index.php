@@ -26,7 +26,7 @@ function objectToArrays( $object ){ if( !is_object( $object ) && !is_array( $obj
     }
     //=====================
 function getGiftCode(){
-$length = 18;
+$length = 19;
  $am = array_merge(range('a','z'), range('A','Z'), range(0, 9));
  for(; @$c < $length; @++$c)
   @$o .= $am[array_rand($am)];
