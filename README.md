@@ -18,7 +18,7 @@
 ```batch
 >> In line 11, on (countyouwant) variable, enter the number of attempts per crack (by default is 5)
 ```
-<b>✅ After the run is finished, check the "sauce" file</b></br></br>
+<b>✅ After the run is finished, check the "nitro_cracker_log.txt" file</b></br></br>
 <b>⚠️ If the script cracks the nitro decode code, it creates a folder called "Codes" and puts the code in that folder</b></br></br>
 
 <i>My Telegram : </i><b><a href="https://t.me/matinme">@MatinME</a></b><br/>
