@@ -7,11 +7,13 @@
 <p align="center">
   <img src="http://s7.picofile.com/file/8392253218/unknown.png">
 </p>
+
 ### :question: How To Run This Script :question:
 ```batch
 >> You can run it in VPS or Host or Your Personal Computer
+```
+
 >> Note: IP can be blocked for 1 or 2 minutes
 >> In line 11, enter the variable ** the number of attempts per crack (by default is 5)
-```
 
 <i>My Telegram : </i><b><a href="https://t.me/matinme">@MatinME</a></b><br/>
