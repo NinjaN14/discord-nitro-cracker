@@ -16,7 +16,7 @@
 >> Note: IP can be blocked for 1 or 2 minutes
 ```
 ```batch
->> In line 11, enter the variable ** the number of attempts per crack (by default is 5)
+>> In line 11, on (countyouwant) variable, enter the number of attempts per crack (by default is 5)
 ```
 
 <i>My Telegram : </i><b><a href="https://t.me/matinme">@MatinME</a></b><br/>
