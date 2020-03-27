@@ -12,8 +12,11 @@
 ```batch
 >> You can run it in VPS or Host or Your Personal Computer
 ```
-
+```batch
 >> Note: IP can be blocked for 1 or 2 minutes
+```
+```batch
 >> In line 11, enter the variable ** the number of attempts per crack (by default is 5)
+```
 
 <i>My Telegram : </i><b><a href="https://t.me/matinme">@MatinME</a></b><br/>
