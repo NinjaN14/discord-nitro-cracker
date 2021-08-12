@@ -34,7 +34,7 @@ $length = 19;
 }
 //=================================
 function checkCode($theCode){
-    $url = "https://discordapp.com/api/v6/entitlements/gift-codes/$theCode?with_application=false&with_subscription_plan=true";
+    $url = "https://discordapp.com/api/v9/entitlements/gift-codes/$theCode?with_application=false&with_subscription_plan=true";
     $curl = curl_init();
     curl_setopt($curl, CURLOPT_URL, $url);
     curl_setopt($curl, CURLOPT_RETURNTRANSFER, true);
